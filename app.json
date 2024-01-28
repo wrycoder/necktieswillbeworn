@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "necktieswillbeworn",
-    "slug": "necktieswillbeworn",
+    "name": "The Necktie App",
+    "slug": "Neckties",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d94d693e-53c1-40ea-ae1a-47753903040e"
+      }
+    },
+    "owner": "deryankee"
   }
 }
